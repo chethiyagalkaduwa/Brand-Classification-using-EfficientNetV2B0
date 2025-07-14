@@ -7,7 +7,7 @@ This repository contains the full implementation for a deep learning pipeline de
 Download the dataset folders using the huggingface:
 [Chey97/Clothing_Brand_pred](https://huggingface.co/datasets/Chey97/Clothing_Brand_pred)
 
-[![PDF](https://img.shields.io/badge/Report-PDF-blue)](./Clothing Brand Classification using EfficientNetV2B0.pdf)
+[![PDF](https://img.shields.io/badge/Report-PDF-blue)](./Clothing%20Brand%20Classification%20using%20EfficientNetV2B0.pdf)
 
 
 ## Project Structure
