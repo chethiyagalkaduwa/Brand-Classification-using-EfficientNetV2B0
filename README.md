@@ -4,6 +4,10 @@ This repository contains the full implementation for a deep learning pipeline de
 
 ---
 
+Download the dataset folders using the huggingface:
+Chey97/Clothing_Brand_pred
+
+
 ## Project Structure
 
 ```bash
