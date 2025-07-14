@@ -7,6 +7,8 @@ This repository contains the full implementation for a deep learning pipeline de
 Download the dataset folders using the huggingface:
 [Chey97/Clothing_Brand_pred](https://huggingface.co/datasets/Chey97/Clothing_Brand_pred)
 
+[![PDF](https://img.shields.io/badge/Report-PDF-blue)](./Model_Report.pdf)
+
 
 ## Project Structure
 
