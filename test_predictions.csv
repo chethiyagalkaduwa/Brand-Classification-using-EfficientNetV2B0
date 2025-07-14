@@ -1,0 +1,888 @@
+Filename,True Label,Predicted Label,Confidence
+1.jpg,ll bean,orvis,0.29177684
+23.jpg,orvis,levis,0.10871738
+16.jpg,levis,levis,0.3449377
+26.jpg,levis,levis,0.47102413
+28.jpg,woolrich,wrangler,0.33599192
+47.jpg,abercrombie & fitch,eddie bauer,0.14351325
+40.jpg,wrangler,levis,0.51122147
+72.jpg,dickies,pendleton,0.18927014
+74.jpg,champion,tommy hilfiger,0.28101137
+82.jpg,champion,eddie bauer,0.16239911
+81.jpg,nike,columbia,0.3363339
+87.jpg,patagonia,eddie bauer,0.23445669
+96.jpg,calvin klein,eddie bauer,0.1769111
+106.jpg,polartec,polartec,0.6749416
+114.jpg,ll bean,tommy bahama,0.21076348
+108.jpg,ralph lauren,peter millar,0.27708292
+113.jpg,carhartt,woolrich,0.4436683
+122.jpg,patagonia,polartec,0.70668143
+120.jpg,nike,polartec,0.2618713
+130.jpg,dickies,schott,0.33598942
+128.jpg,ll bean,ll bean,0.32394186
+132.jpg,carhartt,wrangler,0.22061972
+134.jpg,carhartt,eddie bauer,0.16111098
+137.jpg,columbia,polartec,0.4189632
+138.jpg,orvis,polartec,0.2702093
+142.jpg,wrangler,levis,0.20491563
+152.jpg,carhartt,champion,0.17524898
+157.jpg,harley davidson,harley davidson,0.2336003
+166.jpg,carhartt,the north face,0.12924007
+156.jpg,nike,tommy hilfiger,0.092271216
+165.jpg,banana republic,orvis,0.315009
+168.jpg,harley davidson,harley davidson,0.8183214
+170.jpg,carhartt,carhartt,0.15081325
+169.jpg,ralph lauren,barbour,0.09601374
+175.jpg,nike,dickies,0.23268355
+197.jpg,alpha industries,alpha industries,0.19840094
+202.jpg,patagonia,pendleton,0.38463756
+208.jpg,ralph lauren,abercrombie & fitch,0.18883884
+213.jpg,ll bean,pendleton,0.5054646
+219.jpg,carhartt,carhartt,0.20930696
+231.jpg,nike,patagonia,0.16970311
+256.jpg,the north face,spyder,0.27081242
+264.jpg,the north face,eddie bauer,0.34889427
+311.jpg,columbia,nautica,0.2836694
+321.jpg,the north face,adidas,0.37635684
+329.jpg,ralph lauren,reebok,0.11003586
+336.jpg,champion,helly hansen,0.48567447
+343.jpg,nike,pendleton,0.51112527
+342.jpg,nike,helly hansen,0.20985799
+341.jpg,patagonia,pendleton,0.69325644
+346.jpg,barbour,the north face,0.15187511
+348.jpg,levis,polartec,0.09724396
+353.jpg,carhartt,carhartt,0.5417511
+354.jpg,polartec,adidas,0.33219844
+378.jpg,patagonia,patagonia,0.12396773
+380.jpg,canada goose,abercrombie & fitch,0.38815272
+386.jpg,harley davidson,harley davidson,0.4107308
+396.jpg,levis,gap,0.14343166
+404.jpg,ralph lauren,levis,0.3227255
+389.jpg,nautica,schott,0.13387027
+417.jpg,eddie bauer,ll bean,0.34432563
+425.jpg,carhartt,levis,0.1255243
+429.jpg,burberry,levis,0.13381292
+432.jpg,tommy hilfiger,nautica,0.4596086
+436.jpg,polartec,orvis,0.18677157
+450.jpg,patagonia,calvin klein,0.19402488
+446.jpg,the north face,pendleton,0.5438914
+437.jpg,the north face,adidas,0.19794305
+453.jpg,champion,pendleton,0.51971644
+452.jpg,burberry,adidas,0.16200794
+463.jpg,ralph lauren,ll bean,0.36521792
+461.jpg,peter millar,polartec,0.17161761
+469.jpg,tommy bahama,peter millar,0.6074638
+479.jpg,ralph lauren,abercrombie & fitch,0.17756543
+491.jpg,champion,polartec,0.27039635
+520.jpg,tommy hilfiger,helly hansen,0.3660524
+529.jpg,levis,pendleton,0.3434329
+532.jpg,ralph lauren,woolrich,0.109280206
+535.jpg,tommy hilfiger,pendleton,0.7347866
+549.jpg,ralph lauren,peter millar,0.37275636
+551.jpg,nike,adidas,0.17531613
+557.jpg,patagonia,ll bean,0.17247418
+560.jpg,eddie bauer,polartec,0.143691
+570.jpg,reebok,pendleton,0.22365165
+588.jpg,nautica,alpha industries,0.3652439
+591.jpg,ralph lauren,polartec,0.2068128
+606.jpg,carhartt,tommy hilfiger,0.19375883
+602.jpg,eddie bauer,harley davidson,0.641606
+610.jpg,the north face,peter millar,0.23582286
+629.jpg,woolrich,polartec,0.28989047
+613.jpg,tommy hilfiger,adidas,0.24003059
+630.jpg,alpha industries,helly hansen,0.3052402
+642.jpg,eddie bauer,harley davidson,0.1714135
+646.jpg,eddie bauer,levis,0.10353511
+647.jpg,the north face,adidas,0.16294895
+654.jpg,ralph lauren,gap,0.11952261
+656.jpg,ralph lauren,nautica,0.1828525
+658.jpg,ralph lauren,polartec,0.25964856
+652.jpg,alpha industries,adidas,0.30945122
+665.jpg,champion,tommy hilfiger,0.3453766
+670.jpg,ralph lauren,pendleton,0.22015323
+677.jpg,banana republic,alpha industries,0.2520184
+682.jpg,patagonia,tommy bahama,0.26143694
+686.jpg,banana republic,schott,0.25541198
+688.jpg,nike,schott,0.13522415
+687.jpg,carhartt,pendleton,0.7649921
+705.jpg,helly hansen,peter millar,0.16659713
+720.jpg,carhartt,woolrich,0.2668153
+712.jpg,woolrich,pendleton,0.5271844
+736.jpg,eddie bauer,pendleton,0.3487225
+796.jpg,carhartt,carhartt,0.3236934
+805.jpg,patagonia,patagonia,0.43759272
+817.jpg,harley davidson,harley davidson,0.8667306
+830.jpg,columbia,polartec,0.65950847
+832.jpg,spyder,pendleton,0.2829522
+839.jpg,columbia,polartec,0.25777477
+868.jpg,the north face,harley davidson,0.15090486
+860.jpg,nike,adidas,0.34094033
+871.jpg,ralph lauren,ll bean,0.37235925
+874.jpg,ralph lauren,reebok,0.24504706
+884.jpg,ralph lauren,adidas,0.25225294
+889.jpg,woolrich,abercrombie & fitch,0.26619756
+902.jpg,patagonia,helly hansen,0.14564137
+907.jpg,patagonia,pendleton,0.13529459
+897.jpg,ralph lauren,pendleton,0.36871237
+918.jpg,carhartt,tommy bahama,0.15893531
+928.jpg,ll bean,barbour,0.15053385
+936.jpg,peter millar,pendleton,0.10162722
+938.jpg,nike,tommy bahama,0.17008108
+949.jpg,columbia,adidas,0.20626424
+950.jpg,orvis,ll bean,0.48728356
+952.jpg,nike,patagonia,0.3557952
+958.jpg,levis,levis,0.52743787
+969.jpg,carhartt,woolrich,0.16959886
+984.jpg,harley davidson,schott,0.1101804
+992.jpg,orvis,ll bean,0.21296728
+1000.jpg,tommy bahama,ll bean,0.13082545
+1019.jpg,the north face,pendleton,0.2135674
+1038.jpg,patagonia,levis,0.15122278
+1040.jpg,dickies,levis,0.1627488
+1060.jpg,schott,tommy bahama,0.21933648
+1080.jpg,columbia,the north face,0.21148494
+1085.jpg,nike,adidas,0.3528532
+1090.jpg,reebok,orvis,0.08363832
+1094.jpg,harley davidson,wrangler,0.62650895
+1104.jpg,orvis,polartec,0.15977746
+1114.jpg,eddie bauer,levis,0.13067316
+1111.jpg,canada goose,abercrombie & fitch,0.18572423
+1122.jpg,peter millar,adidas,0.12555772
+1134.jpg,ralph lauren,adidas,0.56170696
+1137.jpg,the north face,harley davidson,0.14390448
+1133.jpg,nike,adidas,0.18831392
+1139.jpg,tommy hilfiger,tommy bahama,0.24022087
+1147.jpg,nike,patagonia,0.38267648
+1151.jpg,eddie bauer,ralph lauren,0.10398545
+1156.jpg,nike,polartec,0.44297832
+1155.jpg,carhartt,wrangler,0.61342853
+1159.jpg,adidas,wrangler,0.36817762
+1174.jpg,columbia,dickies,0.18724824
+1177.jpg,dickies,carhartt,0.14159177
+1191.jpg,patagonia,polartec,0.44506502
+1199.jpg,pendleton,pendleton,0.58653444
+1200.jpg,eddie bauer,tommy bahama,0.119254574
+1221.jpg,nike,pendleton,0.13854237
+1261.jpg,the north face,the north face,0.18092795
+1263.jpg,reebok,patagonia,0.17166798
+1286.jpg,eddie bauer,patagonia,0.14375067
+1294.jpg,eddie bauer,woolrich,0.22015893
+1308.jpg,adidas,banana republic,0.124596745
+1347.jpg,polartec,peter millar,0.27396193
+1352.jpg,levis,abercrombie & fitch,0.15652367
+1357.jpg,carhartt,dickies,0.6556935
+1360.jpg,gap,ll bean,0.18804727
+1374.jpg,spyder,orvis,0.09320818
+1389.jpg,nike,spyder,0.30937067
+1391.jpg,eddie bauer,tommy hilfiger,0.30932263
+1399.jpg,patagonia,adidas,0.33548895
+1393.jpg,the north face,tommy bahama,0.12785682
+1400.jpg,carhartt,tommy bahama,0.116738744
+1407.jpg,the north face,adidas,0.104239
+1415.jpg,canada goose,canada goose,0.7470463
+1419.jpg,nautica,adidas,0.16878125
+1422.jpg,levis,patagonia,0.3302623
+1421.jpg,peter millar,adidas,0.28016543
+1428.jpg,burberry,woolrich,0.13233212
+1440.jpg,dickies,ll bean,0.3387448
+1446.jpg,adidas,adidas,0.15322085
+1458.jpg,ralph lauren,helly hansen,0.15716298
+1455.jpg,schott,harley davidson,0.23050779
+1472.jpg,dickies,schott,0.15474008
+1475.jpg,gap,eddie bauer,0.11580967
+1474.jpg,schott,schott,0.27040714
+1495.jpg,the north face,adidas,0.20189033
+1499.jpg,the north face,pendleton,0.1174039
+1503.jpg,levis,levis,0.4380055
+1550.jpg,polartec,adidas,0.31029454
+1566.jpg,helly hansen,eddie bauer,0.20499778
+1602.jpg,columbia,peter millar,0.41602257
+1634.jpg,reebok,reebok,0.539708
+1640.jpg,helly hansen,polartec,0.23832989
+1653.jpg,ralph lauren,harley davidson,0.25519305
+1665.jpg,the north face,pendleton,0.3787081
+1671.jpg,eddie bauer,peter millar,0.1800385
+1690.jpg,barbour,gap,0.24870874
+1701.jpg,patagonia,adidas,0.20740537
+1712.jpg,tommy hilfiger,carhartt,0.16070011
+1731.jpg,patagonia,eddie bauer,0.22943793
+1758.jpg,columbia,ll bean,0.24547854
+1759.jpg,nike,abercrombie & fitch,0.2092091
+1769.jpg,woolrich,pendleton,0.7781034
+1772.jpg,nike,schott,0.16750333
+1770.jpg,tommy hilfiger,reebok,0.21356024
+1773.jpg,ralph lauren,polartec,0.16767368
+1774.jpg,columbia,tommy bahama,0.089586265
+1795.jpg,patagonia,patagonia,0.19068338
+1797.jpg,carhartt,dickies,0.15690248
+1794.jpg,columbia,pendleton,0.113894075
+1796.jpg,pendleton,tommy bahama,0.13823168
+1803.jpg,reebok,patagonia,0.17496458
+1793.jpg,the north face,the north face,0.14231798
+1800.jpg,harley davidson,harley davidson,0.9748194
+1817.jpg,ralph lauren,pendleton,0.1522326
+1782.jpg,columbia,the north face,0.18535785
+1827.jpg,canada goose,adidas,0.16748999
+1818.jpg,spyder,helly hansen,0.24856241
+1792.jpg,carhartt,spyder,0.15842113
+1829.jpg,burberry,adidas,0.39874515
+1832.jpg,carhartt,wrangler,0.6956116
+1836.jpg,tommy hilfiger,abercrombie & fitch,0.4279467
+1856.jpg,nike,adidas,0.49143094
+1860.jpg,tommy hilfiger,tommy bahama,0.24904239
+1859.jpg,carhartt,carhartt,0.18145296
+1900.jpg,orvis,champion,0.22627915
+1913.jpg,levis,levis,0.3207231
+1936.jpg,nautica,levis,0.19388185
+1941.jpg,peter millar,pendleton,0.5748089
+1946.jpg,levis,levis,0.55510956
+1968.jpg,ralph lauren,tommy bahama,0.116116375
+1994.jpg,the north face,polartec,0.18336429
+2003.jpg,ralph lauren,woolrich,0.14347984
+2004.jpg,carhartt,polartec,0.23641722
+2008.jpg,patagonia,eddie bauer,0.10388176
+2009.jpg,patagonia,the north face,0.10696054
+2022.jpg,wrangler,banana republic,0.13474809
+2029.jpg,harley davidson,harley davidson,0.8344553
+2044.jpg,nike,helly hansen,0.2993626
+2051.jpg,tommy hilfiger,abercrombie & fitch,0.2643652
+2047.jpg,ralph lauren,tommy hilfiger,0.47524545
+2058.jpg,canada goose,canada goose,0.62429816
+2069.jpg,the north face,schott,0.121181965
+2068.jpg,patagonia,abercrombie & fitch,0.13026753
+2074.jpg,nautica,ll bean,0.1585122
+2072.jpg,pendleton,peter millar,0.2453926
+2070.jpg,canada goose,ll bean,0.3888859
+2084.jpg,the north face,eddie bauer,0.2354901
+2099.jpg,the north face,alpha industries,0.111556366
+2106.jpg,levis,levis,0.20973818
+2123.jpg,orvis,banana republic,0.2072814
+2125.jpg,adidas,the north face,0.22419855
+2156.jpg,patagonia,patagonia,0.1472937
+2173.jpg,the north face,abercrombie & fitch,0.24042583
+2178.jpg,helly hansen,woolrich,0.22194469
+2201.jpg,nike,ll bean,0.19477019
+2224.jpg,ll bean,wrangler,0.23788045
+2243.jpg,tommy bahama,banana republic,0.16585018
+2248.jpg,patagonia,helly hansen,0.3797254
+2252.jpg,nautica,calvin klein,0.10232051
+2266.jpg,eddie bauer,columbia,0.35773
+2265.jpg,wrangler,levis,0.14667627
+2279.jpg,patagonia,pendleton,0.4618398
+2283.jpg,wrangler,levis,0.58403605
+2287.jpg,the north face,adidas,0.29851526
+2292.jpg,ralph lauren,levis,0.1342478
+2301.jpg,columbia,columbia,0.23527472
+2324.jpg,eddie bauer,eddie bauer,0.1375805
+2331.jpg,levis,abercrombie & fitch,0.32045493
+2340.jpg,eddie bauer,polartec,0.2000936
+2344.jpg,nike,reebok,0.41931808
+2351.jpg,nike,adidas,0.46293592
+2352.jpg,burberry,woolrich,0.38444528
+2356.jpg,the north face,pendleton,0.59784734
+2353.jpg,nike,ll bean,0.13285108
+2360.jpg,ll bean,the north face,0.12972595
+2361.jpg,canada goose,canada goose,0.38161802
+2367.jpg,tommy bahama,polartec,0.47554308
+2371.jpg,gap,calvin klein,0.15936765
+2379.jpg,the north face,adidas,0.54975086
+2380.jpg,nike,helly hansen,0.13513549
+2385.jpg,peter millar,helly hansen,0.33347976
+2393.jpg,eddie bauer,abercrombie & fitch,0.09732876
+2430.jpg,eddie bauer,ll bean,0.11278871
+2438.jpg,champion,harley davidson,0.20514199
+2441.jpg,polartec,patagonia,0.27610254
+2483.jpg,levis,levis,0.4134718
+2494.jpg,the north face,tommy bahama,0.13133332
+2506.jpg,ralph lauren,burberry,0.098092474
+2507.jpg,carhartt,barbour,0.15182073
+2513.jpg,ralph lauren,polartec,0.13947251
+2516.jpg,nike,ll bean,0.5237897
+2514.jpg,nike,levis,0.16018248
+2520.jpg,columbia,barbour,0.17444889
+2527.jpg,columbia,the north face,0.2242577
+2535.jpg,the north face,pendleton,0.25643027
+2537.jpg,carhartt,carhartt,0.9383041
+2544.jpg,levis,banana republic,0.31780726
+2553.jpg,abercrombie & fitch,tommy bahama,0.19482759
+2565.jpg,patagonia,patagonia,0.6278653
+2571.jpg,ll bean,woolrich,0.34135628
+2577.jpg,columbia,nautica,0.17206956
+2592.jpg,nike,columbia,0.2509779
+2587.jpg,ralph lauren,adidas,0.18994647
+2590.jpg,ralph lauren,dickies,0.091232345
+2595.jpg,banana republic,levis,0.14191444
+2591.jpg,the north face,the north face,0.1827666
+2596.jpg,alpha industries,pendleton,0.39760312
+2602.jpg,champion,peter millar,0.23088612
+2607.jpg,columbia,tommy bahama,0.1360448
+2608.jpg,the north face,spyder,0.4761326
+2627.jpg,the north face,levis,0.118298724
+2632.jpg,ralph lauren,eddie bauer,0.1772158
+2628.jpg,ralph lauren,wrangler,0.42680308
+2638.jpg,ralph lauren,tommy bahama,0.29559338
+2621.jpg,calvin klein,eddie bauer,0.19498731
+2651.jpg,ralph lauren,tommy hilfiger,0.11563212
+2659.jpg,levis,eddie bauer,0.22809426
+2669.jpg,ralph lauren,ll bean,0.22883436
+2713.jpg,pendleton,eddie bauer,0.20849052
+2714.jpg,nautica,polartec,0.22074023
+2760.jpg,abercrombie & fitch,barbour,0.12126279
+2769.jpg,patagonia,levis,0.20201355
+2787.jpg,eddie bauer,eddie bauer,0.38705313
+2800.jpg,carhartt,carhartt,0.662993
+2804.jpg,columbia,helly hansen,0.2491048
+2807.jpg,helly hansen,schott,0.07232642
+2818.jpg,the north face,pendleton,0.2456006
+2822.jpg,polartec,patagonia,0.22404379
+2832.jpg,eddie bauer,eddie bauer,0.28428847
+2833.jpg,the north face,pendleton,0.1621353
+2847.jpg,patagonia,patagonia,0.4234276
+2839.jpg,ll bean,pendleton,0.2778629
+2849.jpg,columbia,woolrich,0.37225088
+2870.jpg,gap,calvin klein,0.13682719
+2879.jpg,patagonia,polartec,0.19096492
+2877.jpg,wrangler,polartec,0.10339243
+2885.jpg,barbour,woolrich,0.16375767
+2903.jpg,barbour,barbour,0.7823099
+2888.jpg,ll bean,eddie bauer,0.2133734
+2890.jpg,woolrich,pendleton,0.84130716
+2891.jpg,barbour,barbour,0.51231575
+2886.jpg,the north face,adidas,0.20347129
+2902.jpg,carhartt,eddie bauer,0.19365788
+2897.jpg,levis,wrangler,0.23050076
+2900.jpg,nike,harley davidson,0.11486081
+2907.jpg,columbia,patagonia,0.34454447
+2906.jpg,levis,levis,0.3366564
+2913.jpg,eddie bauer,helly hansen,0.29859275
+2914.jpg,carhartt,wrangler,0.12050847
+2917.jpg,patagonia,helly hansen,0.341189
+2920.jpg,levis,tommy hilfiger,0.44697404
+2922.jpg,reebok,columbia,0.37981108
+2919.jpg,carhartt,pendleton,0.20085433
+2931.jpg,adidas,tommy bahama,0.13006194
+2934.jpg,eddie bauer,adidas,0.20700946
+2946.jpg,columbia,helly hansen,0.42027798
+2955.jpg,harley davidson,dickies,0.29363382
+2980.jpg,pendleton,pendleton,0.49573764
+3041.jpg,barbour,ll bean,0.16562416
+3048.jpg,columbia,pendleton,0.090736985
+3056.jpg,nike,adidas,0.14576553
+3115.jpg,ralph lauren,ll bean,0.36444744
+3130.jpg,columbia,columbia,0.27209514
+3144.jpg,columbia,patagonia,0.5465738
+3149.jpg,carhartt,levis,0.12287737
+3146.jpg,columbia,patagonia,0.36736456
+3162.jpg,carhartt,adidas,0.18112388
+3168.jpg,the north face,reebok,0.13463654
+3153.jpg,ralph lauren,ll bean,0.22808298
+3166.jpg,woolrich,eddie bauer,0.17565748
+3173.jpg,columbia,eddie bauer,0.409518
+3176.jpg,orvis,polartec,0.30063733
+3174.jpg,ll bean,tommy bahama,0.12311535
+3184.jpg,burberry,woolrich,0.192611
+3181.jpg,woolrich,polartec,0.15315466
+3185.jpg,nike,pendleton,0.49869168
+3192.jpg,carhartt,carhartt,0.26579916
+3196.jpg,calvin klein,polartec,0.15972479
+3214.jpg,levis,levis,0.10523038
+3227.jpg,harley davidson,harley davidson,0.35164917
+3259.jpg,ralph lauren,pendleton,0.7194259
+3288.jpg,wrangler,woolrich,0.10802244
+3322.jpg,banana republic,eddie bauer,0.110388674
+3335.jpg,helly hansen,harley davidson,0.23414409
+3339.jpg,ll bean,pendleton,0.36289182
+3352.jpg,calvin klein,polartec,0.32115695
+3359.jpg,eddie bauer,helly hansen,0.106166564
+3368.jpg,burberry,levis,0.15232348
+3383.jpg,adidas,adidas,0.23183711
+3386.jpg,orvis,wrangler,0.37326777
+3395.jpg,nike,columbia,0.23401007
+3409.jpg,ralph lauren,tommy bahama,0.18312295
+3410.jpg,levis,pendleton,0.19006823
+3413.jpg,patagonia,patagonia,0.3083087
+3420.jpg,canada goose,canada goose,0.29925978
+3372.jpg,gap,patagonia,0.17181918
+3450.jpg,patagonia,tommy bahama,0.41860393
+3453.jpg,levis,pendleton,0.3736826
+3458.jpg,ralph lauren,levis,0.21537253
+3468.jpg,canada goose,columbia,0.18101862
+3454.jpg,the north face,nautica,0.2502504
+3478.jpg,banana republic,polartec,0.1542602
+3484.jpg,adidas,adidas,0.30656576
+3480.jpg,nike,alpha industries,0.116658114
+3495.jpg,dickies,carhartt,0.1339061
+3494.jpg,patagonia,polartec,0.5352843
+3504.jpg,patagonia,polartec,0.13855113
+3505.jpg,the north face,adidas,0.45057264
+3513.jpg,eddie bauer,abercrombie & fitch,0.35156766
+3511.jpg,the north face,champion,0.17566508
+3517.jpg,ll bean,pendleton,0.62561136
+3522.jpg,barbour,banana republic,0.34474182
+3529.jpg,nautica,polartec,0.1783705
+3532.jpg,orvis,peter millar,0.91937864
+3553.jpg,woolrich,pendleton,0.4400287
+3617.jpg,the north face,pendleton,0.10878863
+3634.jpg,tommy hilfiger,woolrich,0.14481437
+3630.jpg,tommy hilfiger,eddie bauer,0.14584084
+3654.jpg,adidas,adidas,0.7674366
+3657.jpg,burberry,eddie bauer,0.16484764
+3668.jpg,carhartt,levis,0.30147803
+3687.jpg,carhartt,levis,0.38981852
+3690.jpg,patagonia,patagonia,0.6278038
+3703.jpg,the north face,adidas,0.32966292
+3704.jpg,gap,adidas,0.13885541
+3709.jpg,ralph lauren,adidas,0.10503709
+3719.jpg,carhartt,eddie bauer,0.12532574
+3721.jpg,schott,gap,0.15561579
+3733.jpg,champion,the north face,0.17378764
+3735.jpg,carhartt,champion,0.20282412
+3749.jpg,eddie bauer,schott,0.20387663
+3752.jpg,nautica,peter millar,0.19599265
+3762.jpg,harley davidson,pendleton,0.26409355
+3763.jpg,nautica,reebok,0.18078849
+3743.jpg,columbia,eddie bauer,0.08275601
+3786.jpg,ralph lauren,ll bean,0.5502229
+3782.jpg,carhartt,ll bean,0.12655404
+3799.jpg,harley davidson,abercrombie & fitch,0.28706932
+3792.jpg,orvis,tommy bahama,0.51318234
+3814.jpg,alpha industries,alpha industries,0.5767981
+3819.jpg,ralph lauren,wrangler,0.16349886
+3843.jpg,eddie bauer,adidas,0.31931692
+3845.jpg,ralph lauren,tommy bahama,0.2199106
+3852.jpg,champion,harley davidson,0.14469357
+3850.jpg,the north face,tommy bahama,0.27293402
+3855.jpg,ralph lauren,peter millar,0.19712806
+3859.jpg,ralph lauren,harley davidson,0.3818875
+3872.jpg,ralph lauren,polartec,0.10043134
+3875.jpg,tommy hilfiger,adidas,0.5164892
+3879.jpg,peter millar,adidas,0.64636016
+3882.jpg,dickies,dickies,0.7374089
+3897.jpg,pendleton,woolrich,0.3540551
+3906.jpg,columbia,polartec,0.21949607
+3927.jpg,ralph lauren,polartec,0.20669575
+3943.jpg,tommy hilfiger,eddie bauer,0.30441386
+3948.jpg,the north face,adidas,0.1032415
+3934.jpg,nike,adidas,0.2720709
+3953.jpg,ralph lauren,pendleton,0.5185167
+3980.jpg,tommy bahama,barbour,0.13550772
+3981.jpg,carhartt,pendleton,0.36357924
+3985.jpg,harley davidson,burberry,0.44885477
+3986.jpg,levis,levis,0.14903158
+3984.jpg,ll bean,ll bean,0.18909234
+4009.jpg,the north face,adidas,0.26287758
+4015.jpg,nike,levis,0.29638797
+4022.jpg,carhartt,wrangler,0.3199272
+4025.jpg,patagonia,pendleton,0.5015367
+4032.jpg,wrangler,harley davidson,0.65436554
+4053.jpg,nike,levis,0.17973219
+4041.jpg,patagonia,gap,0.14837961
+4061.jpg,patagonia,pendleton,0.1598042
+4068.jpg,levis,levis,0.31925446
+4073.jpg,the north face,reebok,0.1641828
+4088.jpg,patagonia,pendleton,0.7680995
+4092.jpg,the north face,eddie bauer,0.06284198
+4098.jpg,the north face,adidas,0.2222494
+4107.jpg,champion,wrangler,0.1194247
+4103.jpg,the north face,patagonia,0.1428294
+4128.jpg,calvin klein,levis,0.1777262
+4132.jpg,alpha industries,polartec,0.3085591
+4141.jpg,polartec,levis,0.121711254
+4121.jpg,carhartt,adidas,0.09126808
+4145.jpg,adidas,spyder,0.42445812
+4162.jpg,alpha industries,alpha industries,0.1812018
+4163.jpg,columbia,levis,0.10213031
+4168.jpg,harley davidson,harley davidson,0.4487099
+4174.jpg,columbia,nautica,0.18061486
+4189.jpg,gap,wrangler,0.50462973
+4191.jpg,schott,polartec,0.47115898
+4196.jpg,abercrombie & fitch,polartec,0.2776997
+4192.jpg,patagonia,abercrombie & fitch,0.36887878
+4208.jpg,carhartt,pendleton,0.30480894
+4214.jpg,the north face,abercrombie & fitch,0.40614465
+4213.jpg,adidas,levis,0.3516927
+4216.jpg,eddie bauer,alpha industries,0.08103778
+4210.jpg,columbia,nautica,0.21249054
+4217.jpg,ralph lauren,eddie bauer,0.11007527
+4231.jpg,gap,levis,0.26765087
+4244.jpg,champion,pendleton,0.1463266
+4242.jpg,levis,levis,0.5222433
+4234.jpg,burberry,woolrich,0.19987449
+4253.jpg,wrangler,wrangler,0.21951881
+4255.jpg,wrangler,pendleton,0.23243858
+4260.jpg,abercrombie & fitch,eddie bauer,0.18785341
+4261.jpg,patagonia,wrangler,0.24021418
+4271.jpg,patagonia,abercrombie & fitch,0.2651964
+4289.jpg,the north face,ll bean,0.17790504
+4303.jpg,ralph lauren,woolrich,0.24955292
+4321.jpg,adidas,adidas,0.65338933
+4329.jpg,the north face,polartec,0.4694467
+4334.jpg,carhartt,peter millar,0.41853786
+4332.jpg,the north face,adidas,0.19925031
+4348.jpg,the north face,polartec,0.106202126
+4351.jpg,carhartt,levis,0.14839374
+4356.jpg,the north face,schott,0.15405239
+4368.jpg,patagonia,abercrombie & fitch,0.09062926
+4371.jpg,levis,harley davidson,0.23423354
+4388.jpg,abercrombie & fitch,barbour,0.16071746
+4382.jpg,columbia,columbia,0.18638167
+4409.jpg,carhartt,dickies,0.5109205
+4411.jpg,carhartt,wrangler,0.41752118
+4415.jpg,columbia,columbia,0.3253175
+4414.jpg,carhartt,wrangler,0.36844495
+4419.jpg,orvis,levis,0.18340692
+4425.jpg,ralph lauren,nautica,0.20966181
+4438.jpg,pendleton,woolrich,0.10344644
+4442.jpg,columbia,tommy bahama,0.25793883
+4450.jpg,harley davidson,harley davidson,0.8901931
+4453.jpg,ralph lauren,peter millar,0.108013235
+4463.jpg,patagonia,patagonia,0.6491802
+4464.jpg,burberry,woolrich,0.16253817
+4468.jpg,carhartt,reebok,0.08282034
+4476.jpg,columbia,polartec,0.41760382
+4493.jpg,ralph lauren,pendleton,0.29458374
+4495.jpg,tommy hilfiger,levis,0.34812298
+4497.jpg,tommy hilfiger,patagonia,0.59060085
+4502.jpg,the north face,champion,0.1358235
+4546.jpg,the north face,the north face,0.2793629
+4599.jpg,patagonia,champion,0.17545453
+4682.jpg,columbia,adidas,0.16142589
+4715.jpg,patagonia,adidas,0.18501511
+4721.jpg,schott,levis,0.092377074
+4724.jpg,carhartt,carhartt,0.3636788
+4710.jpg,the north face,adidas,0.32623273
+4769.jpg,orvis,abercrombie & fitch,0.17308016
+4775.jpg,patagonia,patagonia,0.17086351
+4765.jpg,champion,schott,0.22823587
+4773.jpg,burberry,levis,0.16803437
+4801.jpg,nike,polartec,0.325472
+4828.jpg,burberry,banana republic,0.33769944
+4834.jpg,burberry,pendleton,0.65145624
+4833.jpg,canada goose,adidas,0.29006416
+4841.jpg,ralph lauren,barbour,0.27520034
+4850.jpg,burberry,harley davidson,0.47365054
+4842.jpg,adidas,nike,0.0822814
+4858.jpg,ralph lauren,adidas,0.2908644
+4852.jpg,burberry,peter millar,0.57479316
+4853.jpg,burberry,abercrombie & fitch,0.1277157
+4855.jpg,nike,adidas,0.2774384
+4857.jpg,schott,tommy bahama,0.22250427
+4868.jpg,ralph lauren,wrangler,0.18440545
+4874.jpg,schott,schott,0.099498756
+4871.jpg,burberry,champion,0.104379244
+4870.jpg,columbia,orvis,0.14653334
+4872.jpg,burberry,abercrombie & fitch,0.18748693
+4881.jpg,burberry,burberry,0.61728734
+4875.jpg,carhartt,ll bean,0.1533328
+4884.jpg,burberry,burberry,0.36996192
+4885.jpg,nike,adidas,0.5406698
+4912.jpg,nike,adidas,0.5579348
+4932.jpg,nike,tommy bahama,0.09886102
+4929.jpg,patagonia,wrangler,0.2042564
+4934.jpg,patagonia,patagonia,0.24442138
+4956.jpg,nautica,polartec,0.17937222
+4962.jpg,adidas,levis,0.2570088
+5048.jpg,columbia,abercrombie & fitch,0.2120399
+5110.jpg,helly hansen,helly hansen,0.37843522
+5118.jpg,tommy hilfiger,eddie bauer,0.25994092
+5126.jpg,the north face,champion,0.19070217
+5127.jpg,carhartt,abercrombie & fitch,0.15420611
+5183.jpg,levis,abercrombie & fitch,0.15767637
+5185.jpg,carhartt,carhartt,0.11367032
+5189.jpg,peter millar,pendleton,0.62193924
+5200.jpg,burberry,banana republic,0.39594218
+5195.jpg,carhartt,patagonia,0.22307318
+5201.jpg,burberry,pendleton,0.47172135
+5194.jpg,peter millar,wrangler,0.13076338
+5199.jpg,patagonia,canada goose,0.45519525
+5203.jpg,canada goose,orvis,0.18370871
+5202.jpg,tommy hilfiger,gap,0.17635553
+5208.jpg,carhartt,schott,0.22894768
+5205.jpg,dickies,tommy bahama,0.108846255
+5211.jpg,tommy hilfiger,woolrich,0.1426066
+5216.jpg,adidas,adidas,0.38644063
+5221.jpg,columbia,adidas,0.23901328
+5255.jpg,barbour,tommy bahama,0.27599436
+5287.jpg,calvin klein,helly hansen,0.44468656
+5289.jpg,tommy hilfiger,eddie bauer,0.16356418
+5306.jpg,the north face,helly hansen,0.7409762
+5301.jpg,pendleton,pendleton,0.3599623
+5321.jpg,polartec,polartec,0.35532612
+5328.jpg,ralph lauren,tommy hilfiger,0.45010075
+5333.jpg,harley davidson,harley davidson,0.84597474
+5337.jpg,adidas,harley davidson,0.25942624
+5344.jpg,orvis,orvis,0.42812362
+5347.jpg,ralph lauren,levis,0.19936176
+5349.jpg,nike,patagonia,0.52780396
+5346.jpg,orvis,pendleton,0.11714326
+5370.jpg,nautica,peter millar,0.3791232
+5373.jpg,peter millar,harley davidson,0.31364736
+5380.jpg,the north face,adidas,0.2126691
+5382.jpg,nike,nautica,0.20058502
+5389.jpg,banana republic,abercrombie & fitch,0.11511707
+5390.jpg,carhartt,wrangler,0.42925686
+5385.jpg,ralph lauren,tommy bahama,0.31956488
+5403.jpg,carhartt,harley davidson,0.25818446
+5404.jpg,nike,reebok,0.12240276
+5408.jpg,harley davidson,wrangler,0.27925497
+5414.jpg,nike,canada goose,0.1618502
+5412.jpg,barbour,abercrombie & fitch,0.12601103
+5423.jpg,barbour,abercrombie & fitch,0.1829636
+5427.jpg,helly hansen,polartec,0.1334647
+5431.jpg,the north face,wrangler,0.16326614
+5441.jpg,the north face,pendleton,0.17314485
+5446.jpg,ll bean,abercrombie & fitch,0.1331072
+5453.jpg,columbia,woolrich,0.27310678
+5460.jpg,the north face,adidas,0.2696522
+5466.jpg,tommy hilfiger,adidas,0.19292308
+5468.jpg,reebok,nike,0.213381
+5465.jpg,carhartt,pendleton,0.14497295
+5478.jpg,harley davidson,levis,0.13869493
+5483.jpg,patagonia,tommy hilfiger,0.16597018
+5523.jpg,nike,eddie bauer,0.10994744
+5533.jpg,eddie bauer,tommy bahama,0.14636856
+5536.jpg,ralph lauren,peter millar,0.24546906
+5551.jpg,abercrombie & fitch,woolrich,0.15660328
+5554.jpg,levis,levis,0.19301187
+5555.jpg,ralph lauren,tommy hilfiger,0.60015756
+5562.jpg,the north face,the north face,0.19130142
+5559.jpg,pendleton,pendleton,0.47498372
+5600.jpg,nike,columbia,0.18829349
+5606.jpg,nautica,eddie bauer,0.17715478
+5615.jpg,eddie bauer,polartec,0.11487652
+5638.jpg,carhartt,abercrombie & fitch,0.40614986
+5672.jpg,patagonia,pendleton,0.26110157
+5659.jpg,nike,eddie bauer,0.19840826
+5653.jpg,calvin klein,calvin klein,0.15082867
+5671.jpg,the north face,adidas,0.34067148
+5685.jpg,patagonia,eddie bauer,0.33211198
+5686.jpg,the north face,columbia,0.13753575
+5688.jpg,columbia,pendleton,0.17905979
+5687.jpg,ralph lauren,peter millar,0.23847641
+5703.jpg,nike,adidas,0.3104474
+5689.jpg,columbia,patagonia,0.103218414
+5715.jpg,patagonia,patagonia,0.18696524
+5718.jpg,schott,schott,0.82463044
+5719.jpg,the north face,helly hansen,0.5375612
+5728.jpg,patagonia,patagonia,0.29681277
+5735.jpg,the north face,pendleton,0.14845309
+5750.jpg,ralph lauren,harley davidson,0.23591882
+5758.jpg,banana republic,ll bean,0.34864157
+5778.jpg,nautica,wrangler,0.15199438
+5785.jpg,tommy hilfiger,eddie bauer,0.39740103
+5786.jpg,pendleton,pendleton,0.19113424
+5795.jpg,adidas,ll bean,0.14234163
+5796.jpg,nike,eddie bauer,0.14463428
+5804.jpg,nike,reebok,0.15482205
+5799.jpg,the north face,wrangler,0.3149493
+5862.jpg,carhartt,levis,0.47861293
+5868.jpg,tommy bahama,abercrombie & fitch,0.13747026
+5890.jpg,spyder,spyder,0.38796604
+5905.jpg,harley davidson,harley davidson,0.4360192
+5910.jpg,the north face,the north face,0.30602244
+5924.jpg,orvis,polartec,0.3156106
+5930.jpg,columbia,polartec,0.22429115
+5937.jpg,the north face,pendleton,0.13133945
+5941.jpg,tommy hilfiger,peter millar,0.23285119
+5954.jpg,reebok,the north face,0.37686658
+5950.jpg,tommy bahama,pendleton,0.7641502
+5962.jpg,calvin klein,spyder,0.20924446
+5970.jpg,orvis,ralph lauren,0.13798097
+5972.jpg,orvis,banana republic,0.22589415
+5977.jpg,polartec,ll bean,0.20425151
+5981.jpg,patagonia,patagonia,0.6983836
+5985.jpg,burberry,burberry,0.14676444
+6004.jpg,burberry,wrangler,0.13076927
+6003.jpg,dickies,polartec,0.30100083
+6001.jpg,schott,peter millar,0.11003907
+6008.jpg,peter millar,banana republic,0.19205143
+6055.jpg,tommy hilfiger,tommy bahama,0.34505254
+6067.jpg,the north face,levis,0.13092662
+6085.jpg,columbia,abercrombie & fitch,0.16772205
+6096.jpg,adidas,adidas,0.14475405
+6089.jpg,adidas,adidas,0.20144534
+6075.jpg,alpha industries,canada goose,0.9513702
+6097.jpg,ralph lauren,polartec,0.25693503
+6098.jpg,the north face,eddie bauer,0.45738414
+6102.jpg,schott,polartec,0.13127269
+6111.jpg,the north face,adidas,0.35191604
+6119.jpg,levis,pendleton,0.35763562
+6126.jpg,tommy bahama,barbour,0.23115487
+6127.jpg,ralph lauren,tommy bahama,0.20972763
+6125.jpg,carhartt,the north face,0.34957764
+6132.jpg,reebok,reebok,0.4486627
+6138.jpg,tommy hilfiger,champion,0.29575446
+6139.jpg,carhartt,ll bean,0.3692237
+6142.jpg,peter millar,polartec,0.3635692
+6146.jpg,columbia,the north face,0.3402197
+6149.jpg,tommy hilfiger,dickies,0.2660658
+6150.jpg,patagonia,patagonia,0.1661478
+6157.jpg,harley davidson,peter millar,0.14349979
+6162.jpg,ll bean,barbour,0.3742444
+6155.jpg,levis,eddie bauer,0.12793833
+6182.jpg,burberry,levis,0.14560755
+6195.jpg,the north face,levis,0.213714
+6230.jpg,champion,adidas,0.16788232
+6248.jpg,the north face,columbia,0.4930606
+6246.jpg,patagonia,patagonia,0.83668494
+6258.jpg,the north face,spyder,0.7907649
+6268.jpg,the north face,adidas,0.16862969
+6281.jpg,ralph lauren,ralph lauren,0.08266539
+6283.jpg,nike,nautica,0.1735398
+6296.jpg,ralph lauren,eddie bauer,0.29796714
+6299.jpg,columbia,tommy bahama,0.09780971
+6309.jpg,carhartt,helly hansen,0.20780858
+6318.jpg,ralph lauren,adidas,0.22550207
+6321.jpg,carhartt,carhartt,0.2005428
+6332.jpg,barbour,barbour,0.18960239
+6335.jpg,columbia,the north face,0.5559049
+6337.jpg,nike,champion,0.18580249
+6341.jpg,ralph lauren,abercrombie & fitch,0.6116382
+6344.jpg,the north face,adidas,0.48076424
+6353.jpg,ralph lauren,pendleton,0.3393003
+6370.jpg,champion,wrangler,0.27284375
+6360.jpg,nike,nautica,0.17551677
+6358.jpg,ralph lauren,ll bean,0.37062922
+6368.jpg,champion,eddie bauer,0.64171106
+6557.jpg,the north face,pendleton,0.5106415
+6583.jpg,levis,woolrich,0.17751257
+6601.jpg,ralph lauren,peter millar,0.3417748
+6608.jpg,patagonia,adidas,0.18655221
+6618.jpg,the north face,adidas,0.53098947
+6629.jpg,the north face,schott,0.12482524
+6634.jpg,nike,adidas,0.35001984
+6643.jpg,the north face,levis,0.2200169
+6649.jpg,woolrich,pendleton,0.33086625
+6664.jpg,orvis,pendleton,0.25487077
+6669.jpg,carhartt,peter millar,0.17433222
+6666.jpg,the north face,woolrich,0.17014933
+6672.jpg,nike,barbour,0.112638466
+6678.jpg,carhartt,pendleton,0.16649202
+6687.jpg,levis,the north face,0.18261757
+6696.jpg,ralph lauren,peter millar,0.26318425
+6734.jpg,tommy hilfiger,adidas,0.52382654
+6737.jpg,levis,levis,0.18042067
+6739.jpg,columbia,levis,0.15106729
+6741.jpg,ll bean,pendleton,0.3930498
+6752.jpg,the north face,adidas,0.4496977
+6763.jpg,columbia,adidas,0.28283054
+6744.jpg,the north face,dickies,0.30800194
+6793.jpg,ralph lauren,adidas,0.30484176
+6854.jpg,dickies,polartec,0.26717618
+6873.jpg,ralph lauren,adidas,0.15779671
+6878.jpg,the north face,banana republic,0.2273532
+6910.jpg,champion,polartec,0.19192496
+6927.jpg,tommy hilfiger,pendleton,0.15660828
+6933.jpg,levis,pendleton,0.6615637
+6932.jpg,columbia,tommy bahama,0.21760832
+6941.jpg,the north face,tommy hilfiger,0.44944677
+6969.jpg,carhartt,carhartt,0.16656628
+7033.jpg,barbour,orvis,0.195928
+7039.jpg,patagonia,adidas,0.27087364
+7044.jpg,the north face,reebok,0.09895217
+7057.jpg,alpha industries,harley davidson,0.29428995
+7055.jpg,the north face,pendleton,0.435854
+7056.jpg,schott,harley davidson,0.4788717
+7058.jpg,columbia,polartec,0.28752658
+7054.jpg,spyder,adidas,0.23789056
+7041.jpg,nike,columbia,0.14905438
+7062.jpg,the north face,nautica,0.09002902
+7060.jpg,wrangler,woolrich,0.16879532
+7067.jpg,the north face,patagonia,0.23975329
+7063.jpg,ralph lauren,woolrich,0.12247798
+7066.jpg,the north face,abercrombie & fitch,0.33143318
+7070.jpg,ll bean,ll bean,0.11940698
+7076.jpg,burberry,barbour,0.23673612
+7088.jpg,schott,harley davidson,0.49986216
+7093.jpg,ralph lauren,champion,0.20688029
+7091.jpg,canada goose,polartec,0.116422504
+7092.jpg,the north face,pendleton,0.13759385
+7106.jpg,pendleton,pendleton,0.8239464
+7109.jpg,harley davidson,harley davidson,0.17484345
+7113.jpg,patagonia,patagonia,0.15523313
+7124.jpg,barbour,barbour,0.48408756
+7132.jpg,carhartt,polartec,0.09388029
+7179.jpg,ralph lauren,burberry,0.1237527
+7219.jpg,tommy bahama,tommy bahama,0.16874643
+7223.jpg,ralph lauren,alpha industries,0.15544188
+7241.jpg,carhartt,levis,0.10475809
+7243.jpg,burberry,peter millar,0.23873687
+7259.jpg,woolrich,woolrich,0.2619426
+7296.jpg,eddie bauer,peter millar,0.27718917
+7301.jpg,ll bean,pendleton,0.703893
+7314.jpg,ralph lauren,polartec,0.07846913
+7328.jpg,gap,levis,0.61201835
+7330.jpg,spyder,the north face,0.17664683
+7355.jpg,patagonia,polartec,0.30347013
+7413.jpg,the north face,eddie bauer,0.080705814
+7445.jpg,the north face,abercrombie & fitch,0.17718759
+7451.jpg,eddie bauer,peter millar,0.12008488
+7477.jpg,canada goose,canada goose,0.66586983
+7488.jpg,banana republic,gap,0.14377366
+7500.jpg,the north face,wrangler,0.09612583
+7515.jpg,ralph lauren,pendleton,0.39860168
+7519.jpg,ralph lauren,gap,0.11858403
+7526.jpg,patagonia,patagonia,0.87896323
+7545.jpg,carhartt,levis,0.21288048
+7536.jpg,the north face,levis,0.23304208
+7547.jpg,gap,adidas,0.11523204
+7564.jpg,nike,patagonia,0.32024726
+7556.jpg,ralph lauren,wrangler,0.20689103
+7569.jpg,ralph lauren,adidas,0.3484306
+7570.jpg,woolrich,barbour,0.32584977
+7574.jpg,gap,adidas,0.2381417
+7597.jpg,dickies,spyder,0.124051124
+7610.jpg,woolrich,wrangler,0.2214034
+7607.jpg,barbour,adidas,0.13343023
+7618.jpg,columbia,polartec,0.7558012
+7616.jpg,the north face,pendleton,0.15162516
+7624.jpg,wrangler,spyder,0.23162591
+7626.jpg,canada goose,canada goose,0.4235398
+188.jpg,champion,adidas,0.40804905
+327.jpg,champion,columbia,0.18197156
+294.jpg,dickies,dickies,0.26264325
+54.jpg,adidas,champion,0.17647104
+663.jpg,ll bean,tommy bahama,0.20161192
+323.jpg,nike,nautica,0.5320791
+855.jpg,spyder,polartec,0.2350818
+970.jpg,gap,barbour,0.21186216
+1056.jpg,the north face,reebok,0.16796488
+1081.jpg,the north face,helly hansen,0.46820873
+1143.jpg,tommy hilfiger,nautica,0.15590279
+901.jpg,eddie bauer,adidas,0.10915302
+1109.jpg,the north face,patagonia,0.4513989
+1725.jpg,columbia,adidas,0.16050395
+2094.jpg,calvin klein,calvin klein,0.12856342
+2256.jpg,nike,champion,0.22803481
+2593.jpg,champion,adidas,0.65695935
+1956.jpg,columbia,columbia,0.2800185
+2497.jpg,eddie bauer,peter millar,0.2217543
+3186.jpg,ralph lauren,wrangler,0.23414457
+3403.jpg,adidas,burberry,0.13116027
+4110.jpg,levis,levis,0.24013177
+4170.jpg,calvin klein,harley davidson,0.1919212
+4212.jpg,eddie bauer,nautica,0.36988276
+4077.jpg,columbia,champion,0.15509947
+4159.jpg,patagonia,adidas,0.28785512
+4056.jpg,peter millar,tommy bahama,0.26190436
+4500.jpg,columbia,helly hansen,0.35847616
+4219.jpg,eddie bauer,pendleton,0.119675696
+4864.jpg,peter millar,adidas,0.24694541
+4827.jpg,carhartt,levis,0.16291948
+4469.jpg,eddie bauer,pendleton,0.23266084
+5171.jpg,nautica,adidas,0.17692651
+5169.jpg,orvis,polartec,0.33572787
+5330.jpg,columbia,ll bean,0.14610904
+5239.jpg,columbia,polartec,0.6236018
+5586.jpg,columbia,adidas,0.16207586
+5610.jpg,adidas,champion,0.24077815
+5612.jpg,columbia,pendleton,0.25949225
+5165.jpg,columbia,eddie bauer,0.2072735
+6805.jpg,champion,tommy bahama,0.15540843
+6984.jpg,calvin klein,gap,0.19477318
+7032.jpg,the north face,levis,0.18386485
+6894.jpg,orvis,tommy bahama,0.16523544
+6968.jpg,the north face,polartec,0.22316937
+7135.jpg,levis,abercrombie & fitch,0.18657145
+7123.jpg,abercrombie & fitch,schott,0.36456814
+7338.jpg,columbia,pendleton,0.623629
